@@ -1,1 +1,1 @@
-# sensor-maze
+#[ModKit Wiki](../../wiki)
